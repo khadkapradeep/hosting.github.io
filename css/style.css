@@ -320,8 +320,8 @@ nav .fa-solid {
   
 }
 .testimonials-col {
-  flex-basis: 45%;
-  border-radius: 10px;
+  flex-basis: 44%;
+  border-radius: 15px;
   margin-bottom: 5%;
   text-align: left;
   background: black;
@@ -329,13 +329,13 @@ nav .fa-solid {
   padding: 25px;
   cursor: pointer;
   display: flex;
-  font-size: 16px;
+  font-size: 20px;
 }
 .testimonials-col img {
-  height: 40px;
-  margin-left: 5px;
-  margin-right: 50px;
-  border-radius: 50%;
+  height: 70px;
+  margin-left: 10px;
+  margin-right: 70px;
+  border-radius: 70%;
 }
 .fa-solid {
   color: gold;
