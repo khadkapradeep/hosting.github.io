@@ -316,12 +316,12 @@ nav .fa-solid {
   margin: auto;
   padding-top: 100px;
   text-align: center;
-  position: relative;
+  
   
 }
 .testimonials-col {
-  flex-basis: 44%;
-  border-radius: 15px;
+  flex-basis: 45%;
+  border-radius: 10px;
   margin-bottom: 5%;
   text-align: left;
   background: black;
@@ -329,13 +329,13 @@ nav .fa-solid {
   padding: 25px;
   cursor: pointer;
   display: flex;
-  font-size: 20px;
+  font-size: 16px;
 }
 .testimonials-col img {
-  height: 70px;
-  margin-left: 10px;
-  margin-right: 70px;
-  border-radius: 70%;
+  height: 40px;
+  margin-left: 5px;
+  margin-right: 50px;
+  border-radius: 50%;
 }
 .fa-solid {
   color: gold;
