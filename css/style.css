@@ -329,6 +329,7 @@ nav .fa-solid {
   padding: 25px;
   cursor: pointer;
   display: flex;
+  position: relative;
   
 }
 .testimonials-col img {
