@@ -368,9 +368,9 @@ nav .fa-solid {
 }
 .footer-col img {
   height: 90px;
-  margin-left: 20px;
-  margin-right: 200px;
-  border-radius: 200%;
+  margin-left: 10px;
+  margin-right: 100px;
+  border-radius: 100%;
   flex-basis: 31%;
 }
 .footer-col h3::before {
